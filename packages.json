@@ -1,4 +1,6 @@
 [
-  { "package": "ggradar", "url": "https://github.com/ricardo-bion/ggradar" },
-  { "package": "waffle", "url": "https://github.com/hrbrmstr/waffle" }
+  {
+    "package": "waffle",
+    "url": "https://github.com/hrbrmstr/waffle"
+  }
 ]
