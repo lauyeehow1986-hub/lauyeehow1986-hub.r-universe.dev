@@ -1,18 +1,23 @@
-[
+﻿[
+  {
+    "package": "dicomtk",
+    "url": "https://github.com/lauyeehow1986-hub/dicomtk",
+    "branch": "main"
+  },
+  {
+    "package": "gghalves",
+    "url": "https://github.com/erocoar/gghalves"
+  },
+  {
+    "package": "ggradar",
+    "url": "https://github.com/ricardo-bion/ggradar"
+  },
   {
     "package": "waffle",
     "url": "https://github.com/hrbrmstr/waffle"
   },
-{
-"package":"ggradar",
-"url":"https://github.com/ricardo-bion/ggradar"
-},
-{
-"package":"gghalves",
-"url":"https://github.com/erocoar/gghalves"
-},
-{
-"package":"webshot2",
-"url":"https://github.com/rstudio/webshot2"
-}
+  {
+    "package": "webshot2",
+    "url": "https://github.com/rstudio/webshot2"
+  }
 ]
